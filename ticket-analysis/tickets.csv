@@ -1,0 +1,641 @@
+ticket_id,opened_at,department,category,priority,resolve_minutes,sla_minutes,sla_breached,reopened
+INC-40001,2025-06-24 09:58,Pulmonology,Clinical workstation,P3,50,1440,0,0
+INC-40002,2025-06-12 11:17,Family Medicine,Printer / label printer,P3,14,1440,0,1
+INC-40003,2025-06-13 23:41,Pharmacy,Clinical workstation,P2,74,240,0,0
+INC-40004,2025-04-15 15:03,Emergency,Password reset,P3,5,1440,0,0
+INC-40005,2025-06-20 08:26,Radiology,EHR access / login,P1,25,60,0,0
+INC-40006,2025-04-22 13:24,Registration,Printer / label printer,P2,45,240,0,0
+INC-40007,2025-04-26 14:39,Cardiology,Password reset,P3,5,1440,0,0
+INC-40008,2025-04-27 14:25,Emergency,Clinical workstation,P3,63,1440,0,0
+INC-40009,2025-06-17 08:23,Emergency,Network / VDI,P3,70,1440,0,0
+INC-40010,2025-06-23 03:31,Emergency,EHR access / login,P3,30,1440,0,0
+INC-40011,2025-04-07 22:33,Registration,Phone / paging,P3,38,1440,0,0
+INC-40012,2025-05-08 14:46,Cardiology,Clinical workstation,P1,37,60,0,0
+INC-40013,2025-05-13 14:40,Pulmonology,Password reset,P1,13,60,0,0
+INC-40014,2025-04-13 05:06,Pharmacy,EHR access / login,P3,16,1440,0,0
+INC-40015,2025-04-20 16:00,Registration,EHR access / login,P3,54,1440,0,0
+INC-40016,2025-06-18 01:24,Cardiology,EHR access / login,P2,25,240,0,0
+INC-40017,2025-04-02 03:55,Registration,EHR access / login,P3,26,1440,0,0
+INC-40018,2025-05-29 05:38,Pulmonology,EHR access / login,P3,11,1440,0,1
+INC-40019,2025-04-12 20:55,Family Medicine,Clinical workstation,P3,75,1440,0,0
+INC-40020,2025-06-22 23:28,Pulmonology,EHR access / login,P2,20,240,0,0
+INC-40021,2025-06-07 14:17,Pharmacy,EHR access / login,P2,11,240,0,0
+INC-40022,2025-04-10 17:50,Cardiology,Password reset,P3,5,1440,0,1
+INC-40023,2025-06-04 10:10,Radiology,Phone / paging,P3,30,1440,0,0
+INC-40024,2025-04-07 13:14,Family Medicine,EHR access / login,P3,34,1440,0,0
+INC-40025,2025-05-27 04:57,Pulmonology,Printer / label printer,P4,54,4320,0,0
+INC-40026,2025-04-23 23:05,Emergency,EHR access / login,P3,29,1440,0,0
+INC-40027,2025-06-28 20:41,Radiology,Clinical workstation,P3,62,1440,0,0
+INC-40028,2025-05-24 11:43,Family Medicine,Password reset,P3,17,1440,0,0
+INC-40029,2025-05-03 19:54,Radiology,Software request,P3,2591,1440,1,0
+INC-40030,2025-04-07 21:13,Cardiology,Clinical workstation,P2,5,240,0,0
+INC-40031,2025-06-25 12:16,Revenue Cycle,Clinical workstation,P2,41,240,0,0
+INC-40032,2025-06-19 13:56,Pharmacy,Password reset,P4,5,4320,0,0
+INC-40033,2025-04-02 14:44,Emergency,EHR access / login,P3,14,1440,0,0
+INC-40034,2025-04-24 16:52,Pharmacy,EHR access / login,P3,14,1440,0,0
+INC-40035,2025-05-24 04:06,Cardiology,Clinical workstation,P3,15,1440,0,0
+INC-40036,2025-04-09 06:39,Radiology,Printer / label printer,P3,47,1440,0,1
+INC-40037,2025-06-11 06:49,Registration,Software request,P2,266,240,1,0
+INC-40038,2025-06-08 21:38,Revenue Cycle,Password reset,P3,5,1440,0,0
+INC-40039,2025-05-01 01:15,Pharmacy,Clinical workstation,P4,28,4320,0,0
+INC-40040,2025-04-20 18:54,Pharmacy,Network / VDI,P3,94,1440,0,0
+INC-40041,2025-04-13 12:56,Cardiology,Software request,P3,5,1440,0,0
+INC-40042,2025-05-12 07:27,Radiology,EHR access / login,P2,25,240,0,0
+INC-40043,2025-05-28 05:56,Radiology,EHR access / login,P3,5,1440,0,0
+INC-40044,2025-05-26 14:13,Emergency,Network / VDI,P3,66,1440,0,0
+INC-40045,2025-05-30 09:23,Family Medicine,Clinical workstation,P3,46,1440,0,0
+INC-40046,2025-04-25 12:59,Pulmonology,EHR access / login,P4,22,4320,0,0
+INC-40047,2025-04-11 18:53,Revenue Cycle,Network / VDI,P4,15,4320,0,0
+INC-40048,2025-05-14 12:57,Registration,Password reset,P2,15,240,0,0
+INC-40049,2025-06-05 07:07,Revenue Cycle,EHR access / login,P3,35,1440,0,0
+INC-40050,2025-06-09 02:57,Pulmonology,Software request,P3,2928,1440,1,0
+INC-40051,2025-04-13 02:47,Emergency,Software request,P3,149,1440,0,0
+INC-40052,2025-06-12 19:33,Revenue Cycle,Printer / label printer,P4,44,4320,0,0
+INC-40053,2025-06-06 00:05,Cardiology,Password reset,P3,20,1440,0,0
+INC-40054,2025-06-29 06:04,Revenue Cycle,Medical device connectivity,P4,9393,4320,1,0
+INC-40055,2025-05-17 05:34,Pharmacy,Password reset,P1,18,60,0,0
+INC-40056,2025-06-13 22:35,Cardiology,Printer / label printer,P1,52,60,0,0
+INC-40057,2025-06-02 18:51,Family Medicine,EHR access / login,P3,26,1440,0,0
+INC-40058,2025-06-01 23:51,Radiology,Software request,P3,162,1440,0,0
+INC-40059,2025-05-11 06:55,Family Medicine,Password reset,P4,6,4320,0,0
+INC-40060,2025-04-29 15:54,Pulmonology,Medical device connectivity,P3,110,1440,0,0
+INC-40061,2025-04-26 03:17,Cardiology,EHR access / login,P3,15,1440,0,0
+INC-40062,2025-06-28 12:41,Emergency,Password reset,P1,9,60,0,0
+INC-40063,2025-05-22 12:36,Family Medicine,Clinical workstation,P4,53,4320,0,0
+INC-40064,2025-06-27 09:18,Pharmacy,Printer / label printer,P3,47,1440,0,0
+INC-40065,2025-05-10 18:22,Radiology,Printer / label printer,P2,85,240,0,0
+INC-40066,2025-04-03 23:15,Registration,EHR access / login,P3,5,1440,0,0
+INC-40067,2025-04-18 23:01,Registration,Network / VDI,P1,78,60,1,0
+INC-40068,2025-04-10 20:07,Radiology,Clinical workstation,P3,48,1440,0,0
+INC-40069,2025-04-24 02:20,Pharmacy,EHR access / login,P3,20,1440,0,1
+INC-40070,2025-05-27 08:13,Family Medicine,Password reset,P4,5,4320,0,0
+INC-40071,2025-04-21 03:58,Family Medicine,Medical device connectivity,P3,5,1440,0,0
+INC-40072,2025-06-22 10:55,Family Medicine,Network / VDI,P4,58,4320,0,0
+INC-40073,2025-04-21 03:32,Cardiology,Clinical workstation,P4,48,4320,0,0
+INC-40074,2025-04-24 21:52,Pharmacy,EHR access / login,P3,15,1440,0,0
+INC-40075,2025-06-12 04:38,Emergency,Medical device connectivity,P3,106,1440,0,0
+INC-40076,2025-06-15 00:26,Revenue Cycle,Printer / label printer,P3,24,1440,0,1
+INC-40077,2025-05-17 01:21,Cardiology,Printer / label printer,P4,85,4320,0,0
+INC-40078,2025-05-27 02:54,Radiology,EHR access / login,P4,24,4320,0,0
+INC-40079,2025-06-16 18:28,Cardiology,EHR access / login,P3,31,1440,0,0
+INC-40080,2025-04-08 08:31,Cardiology,EHR access / login,P3,35,1440,0,0
+INC-40081,2025-05-10 10:31,Emergency,Printer / label printer,P3,45,1440,0,0
+INC-40082,2025-06-07 14:06,Revenue Cycle,EHR access / login,P3,39,1440,0,0
+INC-40083,2025-05-17 22:42,Cardiology,EHR access / login,P2,28,240,0,0
+INC-40084,2025-05-28 13:54,Pharmacy,Password reset,P4,5,4320,0,0
+INC-40085,2025-05-02 07:52,Cardiology,EHR access / login,P3,28,1440,0,0
+INC-40086,2025-05-08 05:07,Family Medicine,Network / VDI,P4,42,4320,0,0
+INC-40087,2025-06-10 03:07,Revenue Cycle,Medical device connectivity,P3,1876,1440,1,0
+INC-40088,2025-05-29 10:17,Emergency,EHR access / login,P4,28,4320,0,0
+INC-40089,2025-05-02 00:58,Radiology,Software request,P3,1705,1440,1,0
+INC-40090,2025-06-29 12:01,Emergency,Password reset,P4,19,4320,0,0
+INC-40091,2025-05-11 16:09,Pulmonology,EHR access / login,P3,21,1440,0,0
+INC-40092,2025-04-26 09:15,Revenue Cycle,EHR access / login,P3,27,1440,0,0
+INC-40093,2025-05-22 23:46,Radiology,Printer / label printer,P4,46,4320,0,0
+INC-40094,2025-06-09 09:36,Emergency,EHR access / login,P3,19,1440,0,0
+INC-40095,2025-06-28 14:09,Emergency,Software request,P3,321,1440,0,0
+INC-40096,2025-05-07 13:41,Registration,Printer / label printer,P3,64,1440,0,0
+INC-40097,2025-05-22 07:44,Registration,Clinical workstation,P3,81,1440,0,1
+INC-40098,2025-05-28 21:47,Family Medicine,Network / VDI,P3,46,1440,0,0
+INC-40099,2025-04-29 23:26,Revenue Cycle,Password reset,P2,11,240,0,0
+INC-40100,2025-05-14 18:21,Emergency,Software request,P3,2780,1440,1,0
+INC-40101,2025-05-13 22:07,Emergency,Software request,P3,2702,1440,1,0
+INC-40102,2025-04-06 00:43,Revenue Cycle,Clinical workstation,P3,98,1440,0,0
+INC-40103,2025-06-01 02:01,Pharmacy,EHR access / login,P3,7,1440,0,0
+INC-40104,2025-04-13 18:13,Registration,Network / VDI,P4,105,4320,0,0
+INC-40105,2025-06-21 13:07,Revenue Cycle,EHR access / login,P2,18,240,0,0
+INC-40106,2025-06-03 22:04,Pulmonology,Password reset,P3,19,1440,0,0
+INC-40107,2025-04-23 22:51,Pulmonology,Network / VDI,P2,9,240,0,0
+INC-40108,2025-04-25 22:52,Registration,EHR access / login,P2,24,240,0,0
+INC-40109,2025-05-20 14:14,Family Medicine,Password reset,P2,9,240,0,0
+INC-40110,2025-05-14 20:25,Revenue Cycle,Password reset,P3,23,1440,0,0
+INC-40111,2025-06-16 14:50,Radiology,Clinical workstation,P3,78,1440,0,0
+INC-40112,2025-04-20 16:39,Radiology,Password reset,P4,5,4320,0,0
+INC-40113,2025-05-04 20:59,Revenue Cycle,EHR access / login,P4,41,4320,0,0
+INC-40114,2025-04-18 00:39,Pharmacy,Network / VDI,P4,145,4320,0,0
+INC-40115,2025-04-30 19:07,Radiology,Printer / label printer,P3,48,1440,0,0
+INC-40116,2025-04-02 03:18,Cardiology,Printer / label printer,P4,44,4320,0,0
+INC-40117,2025-06-03 13:28,Registration,Software request,P3,163,1440,0,0
+INC-40118,2025-05-01 01:29,Revenue Cycle,EHR access / login,P3,47,1440,0,0
+INC-40119,2025-05-25 10:17,Registration,Clinical workstation,P3,100,1440,0,0
+INC-40120,2025-04-30 04:50,Pulmonology,Network / VDI,P3,22,1440,0,0
+INC-40121,2025-04-23 21:25,Pharmacy,Software request,P4,7969,4320,1,0
+INC-40122,2025-05-06 19:30,Family Medicine,Network / VDI,P3,117,1440,0,0
+INC-40123,2025-06-09 08:56,Emergency,Printer / label printer,P2,5,240,0,0
+INC-40124,2025-04-28 05:21,Emergency,EHR access / login,P2,33,240,0,0
+INC-40125,2025-05-21 01:32,Revenue Cycle,Network / VDI,P2,55,240,0,0
+INC-40126,2025-04-09 00:01,Emergency,Network / VDI,P4,128,4320,0,0
+INC-40127,2025-05-30 08:46,Radiology,EHR access / login,P3,5,1440,0,0
+INC-40128,2025-05-07 04:32,Revenue Cycle,Printer / label printer,P4,57,4320,0,0
+INC-40129,2025-05-16 05:25,Cardiology,Phone / paging,P3,5,1440,0,0
+INC-40130,2025-06-15 11:55,Revenue Cycle,Software request,P3,259,1440,0,0
+INC-40131,2025-06-21 04:16,Emergency,Network / VDI,P4,20,4320,0,0
+INC-40132,2025-05-09 16:01,Pharmacy,Password reset,P4,13,4320,0,0
+INC-40133,2025-05-29 02:34,Pulmonology,EHR access / login,P2,18,240,0,0
+INC-40134,2025-06-20 22:41,Emergency,Printer / label printer,P3,50,1440,0,0
+INC-40135,2025-04-15 10:43,Emergency,Network / VDI,P3,79,1440,0,0
+INC-40136,2025-06-13 03:30,Emergency,EHR access / login,P3,15,1440,0,0
+INC-40137,2025-05-24 20:16,Pulmonology,EHR access / login,P3,27,1440,0,0
+INC-40138,2025-06-23 04:24,Registration,Medical device connectivity,P3,233,1440,0,0
+INC-40139,2025-06-17 23:15,Revenue Cycle,Software request,P3,220,1440,0,0
+INC-40140,2025-06-18 19:19,Pulmonology,Network / VDI,P2,168,240,0,0
+INC-40141,2025-06-12 22:52,Registration,EHR access / login,P2,11,240,0,0
+INC-40142,2025-06-21 12:01,Emergency,EHR access / login,P4,37,4320,0,0
+INC-40143,2025-04-23 17:36,Revenue Cycle,Software request,P3,1832,1440,1,0
+INC-40144,2025-04-13 05:25,Registration,Software request,P4,48,4320,0,0
+INC-40145,2025-04-17 12:30,Family Medicine,EHR access / login,P3,52,1440,0,0
+INC-40146,2025-06-05 12:16,Cardiology,EHR access / login,P3,25,1440,0,0
+INC-40147,2025-06-08 10:19,Registration,Password reset,P2,5,240,0,1
+INC-40148,2025-06-02 09:21,Cardiology,EHR access / login,P2,9,240,0,0
+INC-40149,2025-05-08 21:32,Registration,Clinical workstation,P1,29,60,0,0
+INC-40150,2025-05-13 19:40,Cardiology,Clinical workstation,P3,42,1440,0,0
+INC-40151,2025-05-07 04:13,Cardiology,Password reset,P2,6,240,0,0
+INC-40152,2025-06-04 22:01,Radiology,EHR access / login,P3,5,1440,0,0
+INC-40153,2025-04-02 05:52,Pulmonology,Printer / label printer,P3,68,1440,0,0
+INC-40154,2025-06-25 14:53,Registration,EHR access / login,P3,5,1440,0,0
+INC-40155,2025-04-09 04:53,Cardiology,Network / VDI,P3,73,1440,0,0
+INC-40156,2025-06-06 04:08,Radiology,Software request,P3,336,1440,0,0
+INC-40157,2025-04-09 21:12,Family Medicine,EHR access / login,P2,39,240,0,0
+INC-40158,2025-05-25 05:51,Cardiology,Clinical workstation,P4,73,4320,0,0
+INC-40159,2025-05-10 18:40,Pharmacy,EHR access / login,P4,20,4320,0,0
+INC-40160,2025-04-14 18:15,Pharmacy,EHR access / login,P3,28,1440,0,0
+INC-40161,2025-06-06 11:01,Pulmonology,Software request,P3,58,1440,0,0
+INC-40162,2025-05-01 10:06,Pulmonology,Password reset,P1,18,60,0,0
+INC-40163,2025-05-05 15:54,Registration,Password reset,P2,13,240,0,0
+INC-40164,2025-06-10 01:28,Registration,Password reset,P2,18,240,0,0
+INC-40165,2025-04-14 04:40,Pulmonology,Clinical workstation,P3,28,1440,0,0
+INC-40166,2025-06-10 23:32,Cardiology,EHR access / login,P3,20,1440,0,0
+INC-40167,2025-05-01 15:42,Revenue Cycle,Printer / label printer,P3,13,1440,0,0
+INC-40168,2025-06-06 17:13,Cardiology,Medical device connectivity,P3,3016,1440,1,0
+INC-40169,2025-06-21 22:26,Cardiology,EHR access / login,P4,33,4320,0,0
+INC-40170,2025-05-04 09:22,Pulmonology,EHR access / login,P3,6,1440,0,0
+INC-40171,2025-05-25 16:26,Emergency,Clinical workstation,P2,34,240,0,0
+INC-40172,2025-05-31 05:14,Family Medicine,Network / VDI,P4,69,4320,0,0
+INC-40173,2025-05-06 00:42,Emergency,Password reset,P3,5,1440,0,0
+INC-40174,2025-05-19 08:07,Pharmacy,Clinical workstation,P1,19,60,0,0
+INC-40175,2025-04-13 06:12,Revenue Cycle,Clinical workstation,P3,42,1440,0,0
+INC-40176,2025-06-11 23:20,Family Medicine,Network / VDI,P3,133,1440,0,0
+INC-40177,2025-05-02 17:38,Pharmacy,Printer / label printer,P2,11,240,0,0
+INC-40178,2025-06-16 14:09,Pharmacy,Printer / label printer,P4,57,4320,0,0
+INC-40179,2025-06-25 18:08,Pharmacy,EHR access / login,P2,6,240,0,0
+INC-40180,2025-04-28 05:43,Pharmacy,EHR access / login,P4,22,4320,0,0
+INC-40181,2025-04-29 00:44,Pulmonology,Printer / label printer,P4,76,4320,0,0
+INC-40182,2025-05-07 09:39,Emergency,Clinical workstation,P3,7,1440,0,0
+INC-40183,2025-05-20 21:31,Pulmonology,EHR access / login,P4,19,4320,0,0
+INC-40184,2025-06-19 14:45,Revenue Cycle,Phone / paging,P3,93,1440,0,0
+INC-40185,2025-04-21 11:29,Cardiology,Clinical workstation,P4,28,4320,0,0
+INC-40186,2025-04-12 13:26,Radiology,EHR access / login,P4,12,4320,0,1
+INC-40187,2025-04-30 20:27,Radiology,EHR access / login,P3,32,1440,0,0
+INC-40188,2025-05-24 14:03,Pulmonology,Clinical workstation,P3,70,1440,0,0
+INC-40189,2025-04-29 07:30,Radiology,EHR access / login,P4,21,4320,0,0
+INC-40190,2025-06-03 07:50,Emergency,EHR access / login,P4,32,4320,0,0
+INC-40191,2025-05-14 07:10,Pulmonology,Medical device connectivity,P3,221,1440,0,0
+INC-40192,2025-06-29 03:41,Emergency,EHR access / login,P4,27,4320,0,0
+INC-40193,2025-06-27 19:07,Family Medicine,Clinical workstation,P4,89,4320,0,0
+INC-40194,2025-05-09 01:57,Registration,Software request,P4,5812,4320,1,0
+INC-40195,2025-06-05 20:10,Registration,Password reset,P3,12,1440,0,0
+INC-40196,2025-05-24 23:39,Pulmonology,Password reset,P4,22,4320,0,0
+INC-40197,2025-04-21 20:35,Radiology,Medical device connectivity,P2,523,240,1,0
+INC-40198,2025-04-01 22:14,Registration,EHR access / login,P4,46,4320,0,0
+INC-40199,2025-04-16 06:23,Pulmonology,Clinical workstation,P3,35,1440,0,0
+INC-40200,2025-06-12 05:34,Family Medicine,Network / VDI,P1,148,60,1,0
+INC-40201,2025-06-08 14:41,Radiology,EHR access / login,P3,24,1440,0,0
+INC-40202,2025-06-23 02:14,Revenue Cycle,EHR access / login,P4,24,4320,0,0
+INC-40203,2025-04-27 19:40,Family Medicine,Printer / label printer,P1,5,60,0,0
+INC-40204,2025-05-10 22:30,Pulmonology,Network / VDI,P2,71,240,0,0
+INC-40205,2025-06-05 11:22,Radiology,Printer / label printer,P3,44,1440,0,0
+INC-40206,2025-04-25 01:53,Emergency,Medical device connectivity,P3,2529,1440,1,0
+INC-40207,2025-04-15 02:38,Radiology,Medical device connectivity,P2,43,240,0,0
+INC-40208,2025-04-11 16:40,Pulmonology,Medical device connectivity,P1,57,60,0,0
+INC-40209,2025-06-03 14:39,Registration,EHR access / login,P3,16,1440,0,0
+INC-40210,2025-05-17 18:19,Family Medicine,Printer / label printer,P3,70,1440,0,0
+INC-40211,2025-05-31 06:37,Emergency,EHR access / login,P3,37,1440,0,0
+INC-40212,2025-06-04 08:23,Emergency,Printer / label printer,P3,5,1440,0,0
+INC-40213,2025-04-13 12:54,Emergency,Network / VDI,P3,105,1440,0,1
+INC-40214,2025-04-09 14:43,Pharmacy,Clinical workstation,P3,68,1440,0,0
+INC-40215,2025-06-28 17:34,Pulmonology,Printer / label printer,P4,118,4320,0,0
+INC-40216,2025-05-09 08:52,Radiology,EHR access / login,P4,35,4320,0,0
+INC-40217,2025-06-26 10:28,Emergency,EHR access / login,P3,45,1440,0,0
+INC-40218,2025-06-07 09:56,Revenue Cycle,Printer / label printer,P4,36,4320,0,0
+INC-40219,2025-06-24 09:18,Pulmonology,Software request,P4,361,4320,0,0
+INC-40220,2025-05-02 21:55,Pulmonology,Network / VDI,P3,42,1440,0,0
+INC-40221,2025-04-19 19:52,Registration,Printer / label printer,P2,13,240,0,0
+INC-40222,2025-04-17 19:42,Radiology,Printer / label printer,P3,58,1440,0,0
+INC-40223,2025-06-03 05:17,Emergency,Clinical workstation,P2,34,240,0,0
+INC-40224,2025-05-22 22:26,Pulmonology,Network / VDI,P3,183,1440,0,0
+INC-40225,2025-06-25 13:06,Pulmonology,Clinical workstation,P2,47,240,0,0
+INC-40226,2025-04-30 14:36,Radiology,Software request,P1,162,60,1,0
+INC-40227,2025-06-10 10:38,Radiology,Medical device connectivity,P3,2546,1440,1,0
+INC-40228,2025-04-04 04:24,Pulmonology,EHR access / login,P3,9,1440,0,0
+INC-40229,2025-04-13 16:06,Revenue Cycle,Clinical workstation,P3,11,1440,0,0
+INC-40230,2025-04-19 22:24,Registration,Password reset,P2,11,240,0,0
+INC-40231,2025-05-18 08:01,Registration,Clinical workstation,P2,57,240,0,0
+INC-40232,2025-06-17 11:56,Emergency,Password reset,P2,8,240,0,0
+INC-40233,2025-06-09 14:49,Cardiology,Printer / label printer,P1,59,60,0,0
+INC-40234,2025-05-31 23:11,Cardiology,EHR access / login,P3,23,1440,0,0
+INC-40235,2025-05-28 20:45,Radiology,Medical device connectivity,P3,2364,1440,1,0
+INC-40236,2025-04-26 18:15,Pulmonology,Clinical workstation,P3,93,1440,0,0
+INC-40237,2025-04-16 11:12,Cardiology,Clinical workstation,P3,19,1440,0,0
+INC-40238,2025-05-14 19:52,Registration,Software request,P4,423,4320,0,0
+INC-40239,2025-05-04 10:48,Registration,EHR access / login,P3,52,1440,0,0
+INC-40240,2025-05-13 23:24,Revenue Cycle,Printer / label printer,P3,11,1440,0,0
+INC-40241,2025-04-30 17:47,Registration,EHR access / login,P1,40,60,0,0
+INC-40242,2025-05-06 06:45,Revenue Cycle,Medical device connectivity,P3,61,1440,0,1
+INC-40243,2025-04-08 04:00,Pharmacy,Password reset,P3,5,1440,0,0
+INC-40244,2025-05-13 12:32,Radiology,EHR access / login,P2,10,240,0,0
+INC-40245,2025-04-13 15:46,Radiology,Software request,P1,193,60,1,0
+INC-40246,2025-04-22 02:09,Registration,EHR access / login,P2,14,240,0,0
+INC-40247,2025-05-20 18:58,Radiology,EHR access / login,P1,26,60,0,0
+INC-40248,2025-06-15 05:53,Revenue Cycle,Network / VDI,P2,74,240,0,0
+INC-40249,2025-06-13 14:52,Family Medicine,EHR access / login,P1,20,60,0,0
+INC-40250,2025-05-27 20:56,Radiology,Network / VDI,P2,7,240,0,0
+INC-40251,2025-05-04 16:23,Pulmonology,Clinical workstation,P3,44,1440,0,0
+INC-40252,2025-06-23 19:10,Family Medicine,Clinical workstation,P3,11,1440,0,0
+INC-40253,2025-06-20 21:39,Radiology,Phone / paging,P4,55,4320,0,0
+INC-40254,2025-05-27 20:51,Pharmacy,Password reset,P2,8,240,0,0
+INC-40255,2025-05-17 11:32,Registration,EHR access / login,P3,23,1440,0,0
+INC-40256,2025-05-01 01:02,Family Medicine,EHR access / login,P3,5,1440,0,0
+INC-40257,2025-06-15 16:58,Family Medicine,Network / VDI,P4,163,4320,0,0
+INC-40258,2025-04-12 16:32,Registration,Medical device connectivity,P4,7703,4320,1,0
+INC-40259,2025-05-24 14:06,Family Medicine,EHR access / login,P1,15,60,0,0
+INC-40260,2025-05-31 21:24,Pharmacy,EHR access / login,P3,5,1440,0,0
+INC-40261,2025-04-15 14:38,Emergency,Password reset,P2,11,240,0,0
+INC-40262,2025-06-13 06:12,Cardiology,Clinical workstation,P3,31,1440,0,0
+INC-40263,2025-06-18 03:59,Registration,Software request,P4,8555,4320,1,0
+INC-40264,2025-04-14 05:12,Pharmacy,Password reset,P3,12,1440,0,0
+INC-40265,2025-06-19 04:15,Cardiology,EHR access / login,P3,30,1440,0,0
+INC-40266,2025-05-10 16:04,Emergency,Medical device connectivity,P4,6290,4320,1,0
+INC-40267,2025-05-07 17:08,Radiology,Printer / label printer,P3,37,1440,0,0
+INC-40268,2025-04-15 02:12,Cardiology,Printer / label printer,P3,57,1440,0,1
+INC-40269,2025-04-01 15:46,Pulmonology,Network / VDI,P3,96,1440,0,0
+INC-40270,2025-05-03 06:38,Pharmacy,Clinical workstation,P1,73,60,1,0
+INC-40271,2025-06-15 13:52,Registration,EHR access / login,P3,16,1440,0,0
+INC-40272,2025-06-16 04:17,Emergency,Phone / paging,P3,39,1440,0,0
+INC-40273,2025-04-12 02:28,Emergency,EHR access / login,P2,19,240,0,0
+INC-40274,2025-04-02 05:52,Pulmonology,Clinical workstation,P3,25,1440,0,0
+INC-40275,2025-04-25 09:45,Radiology,Clinical workstation,P4,62,4320,0,0
+INC-40276,2025-06-10 04:04,Cardiology,Network / VDI,P4,5,4320,0,0
+INC-40277,2025-05-08 11:27,Emergency,Printer / label printer,P4,39,4320,0,1
+INC-40278,2025-06-06 05:18,Revenue Cycle,EHR access / login,P3,57,1440,0,0
+INC-40279,2025-05-28 08:29,Registration,EHR access / login,P4,15,4320,0,0
+INC-40280,2025-04-25 09:05,Revenue Cycle,Password reset,P3,6,1440,0,0
+INC-40281,2025-04-13 04:39,Family Medicine,EHR access / login,P2,5,240,0,0
+INC-40282,2025-04-17 21:20,Pharmacy,EHR access / login,P3,18,1440,0,1
+INC-40283,2025-04-09 21:57,Pulmonology,Clinical workstation,P2,30,240,0,1
+INC-40284,2025-05-24 21:51,Cardiology,EHR access / login,P2,41,240,0,0
+INC-40285,2025-06-25 17:36,Family Medicine,Clinical workstation,P3,50,1440,0,0
+INC-40286,2025-06-24 02:43,Revenue Cycle,EHR access / login,P3,40,1440,0,0
+INC-40287,2025-04-02 05:01,Pharmacy,Network / VDI,P3,113,1440,0,0
+INC-40288,2025-05-02 15:45,Radiology,EHR access / login,P3,42,1440,0,0
+INC-40289,2025-05-22 23:14,Radiology,Password reset,P3,15,1440,0,0
+INC-40290,2025-05-16 22:34,Pulmonology,Printer / label printer,P4,34,4320,0,0
+INC-40291,2025-06-24 00:39,Radiology,Printer / label printer,P2,73,240,0,0
+INC-40292,2025-04-30 20:23,Family Medicine,EHR access / login,P2,29,240,0,0
+INC-40293,2025-05-27 23:39,Pharmacy,Clinical workstation,P3,27,1440,0,0
+INC-40294,2025-06-21 23:17,Radiology,Phone / paging,P4,114,4320,0,0
+INC-40295,2025-06-12 04:37,Cardiology,EHR access / login,P4,51,4320,0,0
+INC-40296,2025-06-19 11:45,Emergency,Phone / paging,P2,34,240,0,0
+INC-40297,2025-05-12 14:55,Pharmacy,EHR access / login,P4,25,4320,0,0
+INC-40298,2025-04-07 23:40,Cardiology,EHR access / login,P3,27,1440,0,0
+INC-40299,2025-04-23 07:13,Emergency,Network / VDI,P3,122,1440,0,0
+INC-40300,2025-06-12 19:33,Family Medicine,Printer / label printer,P4,52,4320,0,0
+INC-40301,2025-06-24 20:06,Registration,EHR access / login,P3,8,1440,0,0
+INC-40302,2025-06-17 14:06,Radiology,EHR access / login,P3,49,1440,0,0
+INC-40303,2025-04-20 02:37,Pulmonology,EHR access / login,P4,12,4320,0,0
+INC-40304,2025-06-14 14:45,Revenue Cycle,Phone / paging,P3,53,1440,0,0
+INC-40305,2025-05-31 05:01,Radiology,Medical device connectivity,P4,5360,4320,1,0
+INC-40306,2025-05-02 14:30,Revenue Cycle,EHR access / login,P3,11,1440,0,0
+INC-40307,2025-04-20 00:03,Registration,EHR access / login,P2,23,240,0,0
+INC-40308,2025-04-25 11:43,Pharmacy,EHR access / login,P2,10,240,0,0
+INC-40309,2025-04-13 11:14,Revenue Cycle,Password reset,P3,5,1440,0,0
+INC-40310,2025-04-11 23:48,Registration,Clinical workstation,P3,42,1440,0,0
+INC-40311,2025-04-08 09:45,Pharmacy,Medical device connectivity,P4,84,4320,0,0
+INC-40312,2025-05-29 12:21,Cardiology,Clinical workstation,P3,18,1440,0,0
+INC-40313,2025-05-31 05:30,Emergency,Clinical workstation,P3,66,1440,0,0
+INC-40314,2025-04-13 07:43,Registration,EHR access / login,P3,21,1440,0,0
+INC-40315,2025-06-20 09:37,Cardiology,EHR access / login,P2,36,240,0,0
+INC-40316,2025-04-02 18:17,Revenue Cycle,EHR access / login,P4,8,4320,0,1
+INC-40317,2025-06-22 00:30,Family Medicine,Printer / label printer,P3,59,1440,0,0
+INC-40318,2025-04-30 01:23,Radiology,Clinical workstation,P3,5,1440,0,0
+INC-40319,2025-06-29 04:06,Pharmacy,Password reset,P4,24,4320,0,0
+INC-40320,2025-04-06 12:36,Cardiology,Password reset,P3,13,1440,0,0
+INC-40321,2025-06-25 03:06,Pulmonology,Password reset,P4,16,4320,0,0
+INC-40322,2025-04-10 00:32,Cardiology,Medical device connectivity,P3,333,1440,0,1
+INC-40323,2025-06-11 20:46,Radiology,Software request,P3,234,1440,0,0
+INC-40324,2025-04-02 17:30,Revenue Cycle,EHR access / login,P3,13,1440,0,0
+INC-40325,2025-04-03 11:49,Cardiology,Software request,P4,355,4320,0,0
+INC-40326,2025-05-22 15:06,Cardiology,EHR access / login,P4,34,4320,0,0
+INC-40327,2025-05-17 16:28,Pulmonology,EHR access / login,P3,12,1440,0,0
+INC-40328,2025-04-21 02:26,Radiology,Clinical workstation,P2,43,240,0,0
+INC-40329,2025-06-22 01:55,Family Medicine,EHR access / login,P2,48,240,0,0
+INC-40330,2025-05-27 13:04,Cardiology,Printer / label printer,P2,68,240,0,0
+INC-40331,2025-06-14 18:53,Pharmacy,EHR access / login,P2,43,240,0,0
+INC-40332,2025-04-11 07:51,Radiology,Printer / label printer,P1,64,60,1,0
+INC-40333,2025-06-17 10:45,Registration,Phone / paging,P3,65,1440,0,0
+INC-40334,2025-06-23 22:12,Pharmacy,EHR access / login,P2,10,240,0,0
+INC-40335,2025-06-20 23:59,Cardiology,Printer / label printer,P3,27,1440,0,0
+INC-40336,2025-04-24 19:13,Pulmonology,Clinical workstation,P3,39,1440,0,0
+INC-40337,2025-05-03 22:06,Cardiology,Clinical workstation,P3,30,1440,0,0
+INC-40338,2025-05-19 08:09,Revenue Cycle,Medical device connectivity,P2,67,240,0,0
+INC-40339,2025-05-05 03:29,Pulmonology,EHR access / login,P2,38,240,0,0
+INC-40340,2025-05-05 06:45,Pharmacy,Printer / label printer,P3,44,1440,0,0
+INC-40341,2025-05-03 19:21,Revenue Cycle,EHR access / login,P3,38,1440,0,0
+INC-40342,2025-04-06 09:26,Revenue Cycle,EHR access / login,P4,21,4320,0,0
+INC-40343,2025-05-02 15:57,Registration,EHR access / login,P4,31,4320,0,0
+INC-40344,2025-05-30 04:51,Revenue Cycle,Network / VDI,P4,81,4320,0,0
+INC-40345,2025-04-09 01:41,Registration,Clinical workstation,P3,29,1440,0,0
+INC-40346,2025-06-12 01:04,Registration,Clinical workstation,P4,56,4320,0,0
+INC-40347,2025-04-05 15:44,Family Medicine,EHR access / login,P4,20,4320,0,0
+INC-40348,2025-06-25 08:04,Pulmonology,Password reset,P1,13,60,0,0
+INC-40349,2025-05-09 08:53,Cardiology,EHR access / login,P3,14,1440,0,0
+INC-40350,2025-04-14 00:52,Pharmacy,EHR access / login,P3,43,1440,0,0
+INC-40351,2025-05-11 19:07,Cardiology,Password reset,P4,7,4320,0,0
+INC-40352,2025-06-15 23:45,Cardiology,Software request,P3,452,1440,0,0
+INC-40353,2025-05-30 16:59,Pulmonology,Clinical workstation,P3,5,1440,0,0
+INC-40354,2025-06-26 12:41,Cardiology,Clinical workstation,P2,22,240,0,0
+INC-40355,2025-06-21 21:39,Radiology,EHR access / login,P3,11,1440,0,0
+INC-40356,2025-06-11 03:50,Radiology,Password reset,P3,14,1440,0,0
+INC-40357,2025-05-24 14:44,Family Medicine,Network / VDI,P2,71,240,0,0
+INC-40358,2025-06-02 12:39,Pharmacy,Clinical workstation,P4,49,4320,0,0
+INC-40359,2025-06-10 11:00,Pharmacy,Printer / label printer,P3,16,1440,0,0
+INC-40360,2025-04-25 01:44,Revenue Cycle,Password reset,P3,7,1440,0,0
+INC-40361,2025-04-07 03:11,Pulmonology,Printer / label printer,P3,45,1440,0,0
+INC-40362,2025-05-22 05:18,Family Medicine,Clinical workstation,P3,25,1440,0,0
+INC-40363,2025-05-15 14:26,Registration,Software request,P3,308,1440,0,0
+INC-40364,2025-05-03 07:49,Family Medicine,EHR access / login,P4,31,4320,0,0
+INC-40365,2025-06-26 20:06,Registration,Clinical workstation,P2,69,240,0,0
+INC-40366,2025-04-19 10:17,Revenue Cycle,Network / VDI,P3,67,1440,0,0
+INC-40367,2025-06-22 03:43,Revenue Cycle,Network / VDI,P3,118,1440,0,0
+INC-40368,2025-04-27 18:26,Registration,Software request,P3,236,1440,0,0
+INC-40369,2025-06-21 05:47,Registration,Clinical workstation,P2,44,240,0,0
+INC-40370,2025-04-03 22:21,Registration,EHR access / login,P2,37,240,0,0
+INC-40371,2025-05-06 18:13,Cardiology,Software request,P2,392,240,1,0
+INC-40372,2025-05-31 08:41,Registration,Network / VDI,P3,150,1440,0,0
+INC-40373,2025-05-30 14:55,Radiology,Clinical workstation,P4,49,4320,0,0
+INC-40374,2025-05-29 13:15,Registration,Clinical workstation,P3,25,1440,0,0
+INC-40375,2025-06-26 18:01,Cardiology,Clinical workstation,P3,11,1440,0,0
+INC-40376,2025-06-27 18:35,Cardiology,EHR access / login,P4,18,4320,0,0
+INC-40377,2025-04-14 02:40,Cardiology,Clinical workstation,P3,82,1440,0,0
+INC-40378,2025-06-22 09:27,Cardiology,Clinical workstation,P2,60,240,0,0
+INC-40379,2025-06-03 12:24,Pulmonology,Password reset,P2,6,240,0,0
+INC-40380,2025-04-18 20:23,Cardiology,EHR access / login,P2,38,240,0,0
+INC-40381,2025-06-22 01:54,Registration,EHR access / login,P4,17,4320,0,0
+INC-40382,2025-04-15 01:09,Family Medicine,EHR access / login,P3,21,1440,0,0
+INC-40383,2025-05-15 20:44,Revenue Cycle,Software request,P1,376,60,1,0
+INC-40384,2025-06-27 15:00,Emergency,EHR access / login,P3,5,1440,0,0
+INC-40385,2025-06-30 03:49,Family Medicine,Clinical workstation,P3,51,1440,0,0
+INC-40386,2025-06-09 05:30,Cardiology,Printer / label printer,P3,40,1440,0,1
+INC-40387,2025-06-29 01:47,Revenue Cycle,EHR access / login,P4,16,4320,0,0
+INC-40388,2025-06-10 09:31,Pulmonology,Clinical workstation,P1,56,60,0,0
+INC-40389,2025-05-01 19:39,Pulmonology,Printer / label printer,P3,17,1440,0,0
+INC-40390,2025-04-20 12:53,Registration,Clinical workstation,P3,41,1440,0,0
+INC-40391,2025-04-18 02:45,Registration,EHR access / login,P4,26,4320,0,0
+INC-40392,2025-04-03 07:49,Family Medicine,Printer / label printer,P3,74,1440,0,0
+INC-40393,2025-06-07 14:10,Pulmonology,EHR access / login,P3,21,1440,0,0
+INC-40394,2025-04-23 12:59,Radiology,EHR access / login,P4,5,4320,0,0
+INC-40395,2025-05-05 00:52,Cardiology,Clinical workstation,P4,40,4320,0,0
+INC-40396,2025-06-12 03:56,Pulmonology,Clinical workstation,P2,36,240,0,0
+INC-40397,2025-04-27 10:06,Cardiology,Network / VDI,P3,5,1440,0,0
+INC-40398,2025-05-16 17:01,Emergency,Network / VDI,P1,33,60,0,0
+INC-40399,2025-04-14 08:24,Radiology,EHR access / login,P4,33,4320,0,0
+INC-40400,2025-06-25 00:12,Revenue Cycle,Software request,P3,2856,1440,1,0
+INC-40401,2025-06-02 00:34,Radiology,EHR access / login,P2,27,240,0,0
+INC-40402,2025-04-14 14:54,Cardiology,Password reset,P4,25,4320,0,0
+INC-40403,2025-04-12 11:59,Cardiology,Password reset,P3,10,1440,0,0
+INC-40404,2025-05-11 13:33,Registration,Printer / label printer,P4,54,4320,0,0
+INC-40405,2025-04-08 06:32,Family Medicine,EHR access / login,P3,61,1440,0,0
+INC-40406,2025-04-28 02:11,Radiology,Clinical workstation,P3,10,1440,0,0
+INC-40407,2025-05-26 04:30,Emergency,Phone / paging,P3,101,1440,0,0
+INC-40408,2025-04-03 12:22,Pharmacy,Software request,P4,237,4320,0,0
+INC-40409,2025-05-07 19:25,Emergency,Clinical workstation,P2,43,240,0,1
+INC-40410,2025-05-27 00:21,Cardiology,Clinical workstation,P4,26,4320,0,0
+INC-40411,2025-04-28 23:46,Revenue Cycle,EHR access / login,P1,38,60,0,0
+INC-40412,2025-04-16 10:25,Revenue Cycle,EHR access / login,P3,22,1440,0,0
+INC-40413,2025-05-10 09:31,Revenue Cycle,Printer / label printer,P3,14,1440,0,0
+INC-40414,2025-05-27 21:30,Family Medicine,Printer / label printer,P3,33,1440,0,0
+INC-40415,2025-06-09 22:38,Pulmonology,Printer / label printer,P4,58,4320,0,0
+INC-40416,2025-05-02 05:10,Registration,Clinical workstation,P3,83,1440,0,0
+INC-40417,2025-05-14 22:25,Pharmacy,Password reset,P1,5,60,0,0
+INC-40418,2025-05-16 14:19,Radiology,Password reset,P3,8,1440,0,0
+INC-40419,2025-04-06 21:53,Registration,Clinical workstation,P3,5,1440,0,0
+INC-40420,2025-04-05 21:25,Pulmonology,EHR access / login,P3,5,1440,0,0
+INC-40421,2025-04-19 00:46,Pharmacy,Clinical workstation,P2,71,240,0,0
+INC-40422,2025-06-18 12:18,Radiology,EHR access / login,P2,14,240,0,0
+INC-40423,2025-05-17 01:42,Pulmonology,Clinical workstation,P3,35,1440,0,0
+INC-40424,2025-06-01 02:08,Family Medicine,Clinical workstation,P3,59,1440,0,0
+INC-40425,2025-06-13 23:38,Cardiology,Network / VDI,P3,47,1440,0,0
+INC-40426,2025-06-23 23:46,Emergency,Clinical workstation,P3,98,1440,0,0
+INC-40427,2025-05-29 22:03,Cardiology,Password reset,P3,5,1440,0,0
+INC-40428,2025-04-27 12:15,Pharmacy,EHR access / login,P3,5,1440,0,0
+INC-40429,2025-06-09 07:06,Family Medicine,EHR access / login,P3,23,1440,0,0
+INC-40430,2025-05-08 09:20,Pharmacy,Password reset,P3,23,1440,0,0
+INC-40431,2025-06-26 03:56,Emergency,Medical device connectivity,P3,2710,1440,1,1
+INC-40432,2025-04-22 02:37,Pulmonology,EHR access / login,P4,26,4320,0,0
+INC-40433,2025-05-18 05:50,Family Medicine,Network / VDI,P3,29,1440,0,1
+INC-40434,2025-04-10 16:34,Revenue Cycle,EHR access / login,P4,32,4320,0,0
+INC-40435,2025-05-19 19:02,Radiology,EHR access / login,P1,44,60,0,0
+INC-40436,2025-05-18 20:31,Radiology,Clinical workstation,P3,33,1440,0,0
+INC-40437,2025-04-05 20:47,Pulmonology,EHR access / login,P3,5,1440,0,0
+INC-40438,2025-05-10 19:12,Emergency,Software request,P3,1694,1440,1,0
+INC-40439,2025-06-18 06:27,Pharmacy,Clinical workstation,P4,27,4320,0,0
+INC-40440,2025-04-08 11:42,Cardiology,Network / VDI,P4,39,4320,0,0
+INC-40441,2025-05-28 13:36,Registration,Printer / label printer,P3,7,1440,0,0
+INC-40442,2025-04-09 05:40,Pulmonology,Clinical workstation,P1,31,60,0,0
+INC-40443,2025-04-18 00:11,Revenue Cycle,Phone / paging,P3,32,1440,0,0
+INC-40444,2025-04-06 13:38,Radiology,Network / VDI,P2,63,240,0,0
+INC-40445,2025-04-18 22:27,Emergency,Phone / paging,P4,132,4320,0,0
+INC-40446,2025-05-27 06:28,Radiology,EHR access / login,P3,16,1440,0,0
+INC-40447,2025-06-11 17:12,Pulmonology,Phone / paging,P3,58,1440,0,0
+INC-40448,2025-06-04 23:07,Family Medicine,Password reset,P2,5,240,0,0
+INC-40449,2025-05-06 04:01,Radiology,Printer / label printer,P3,61,1440,0,0
+INC-40450,2025-06-07 18:50,Radiology,EHR access / login,P3,31,1440,0,0
+INC-40451,2025-05-29 08:51,Pharmacy,Medical device connectivity,P4,8865,4320,1,0
+INC-40452,2025-04-04 09:01,Registration,Medical device connectivity,P2,161,240,0,0
+INC-40453,2025-05-12 12:39,Emergency,Clinical workstation,P3,27,1440,0,0
+INC-40454,2025-05-12 17:14,Radiology,Clinical workstation,P4,52,4320,0,0
+INC-40455,2025-06-01 23:48,Pharmacy,Printer / label printer,P3,92,1440,0,0
+INC-40456,2025-04-22 02:43,Radiology,EHR access / login,P3,5,1440,0,0
+INC-40457,2025-06-10 09:53,Revenue Cycle,Password reset,P3,20,1440,0,0
+INC-40458,2025-05-02 15:32,Pharmacy,Clinical workstation,P4,63,4320,0,0
+INC-40459,2025-05-07 13:12,Pharmacy,Password reset,P3,6,1440,0,0
+INC-40460,2025-06-16 12:10,Pharmacy,Printer / label printer,P4,97,4320,0,1
+INC-40461,2025-05-02 05:00,Registration,Phone / paging,P3,59,1440,0,0
+INC-40462,2025-04-15 14:14,Emergency,Password reset,P3,5,1440,0,0
+INC-40463,2025-06-06 10:14,Revenue Cycle,Network / VDI,P3,65,1440,0,0
+INC-40464,2025-05-28 05:20,Radiology,Printer / label printer,P2,39,240,0,0
+INC-40465,2025-05-09 12:32,Emergency,Clinical workstation,P4,39,4320,0,0
+INC-40466,2025-05-23 02:58,Emergency,Printer / label printer,P4,30,4320,0,0
+INC-40467,2025-04-08 03:34,Family Medicine,Clinical workstation,P4,78,4320,0,0
+INC-40468,2025-04-26 04:45,Family Medicine,Network / VDI,P3,78,1440,0,0
+INC-40469,2025-05-05 09:10,Registration,Printer / label printer,P1,20,60,0,0
+INC-40470,2025-04-20 02:22,Cardiology,Medical device connectivity,P3,1770,1440,1,0
+INC-40471,2025-04-03 04:40,Emergency,EHR access / login,P2,5,240,0,0
+INC-40472,2025-05-28 03:37,Revenue Cycle,Clinical workstation,P3,47,1440,0,0
+INC-40473,2025-04-21 04:05,Emergency,Clinical workstation,P4,68,4320,0,0
+INC-40474,2025-05-26 18:00,Revenue Cycle,Network / VDI,P3,17,1440,0,0
+INC-40475,2025-04-14 23:10,Radiology,EHR access / login,P3,5,1440,0,0
+INC-40476,2025-05-25 05:40,Family Medicine,EHR access / login,P2,5,240,0,0
+INC-40477,2025-06-10 08:48,Pulmonology,Password reset,P3,22,1440,0,0
+INC-40478,2025-06-01 04:03,Emergency,EHR access / login,P3,5,1440,0,0
+INC-40479,2025-06-02 05:09,Cardiology,Network / VDI,P4,17,4320,0,0
+INC-40480,2025-05-16 01:31,Pharmacy,Printer / label printer,P4,31,4320,0,1
+INC-40481,2025-06-03 17:33,Emergency,EHR access / login,P1,10,60,0,0
+INC-40482,2025-05-13 20:09,Registration,Password reset,P3,5,1440,0,0
+INC-40483,2025-04-01 14:37,Registration,EHR access / login,P3,25,1440,0,1
+INC-40484,2025-04-16 23:36,Registration,Clinical workstation,P3,67,1440,0,0
+INC-40485,2025-06-01 22:49,Radiology,EHR access / login,P2,12,240,0,0
+INC-40486,2025-05-06 18:58,Revenue Cycle,Printer / label printer,P3,38,1440,0,0
+INC-40487,2025-05-19 19:27,Pulmonology,Printer / label printer,P3,83,1440,0,0
+INC-40488,2025-05-30 06:22,Emergency,Clinical workstation,P3,44,1440,0,0
+INC-40489,2025-06-19 08:31,Radiology,Clinical workstation,P2,75,240,0,0
+INC-40490,2025-05-07 11:08,Pulmonology,Network / VDI,P3,48,1440,0,0
+INC-40491,2025-06-16 08:02,Revenue Cycle,Phone / paging,P4,65,4320,0,0
+INC-40492,2025-06-18 18:00,Registration,Printer / label printer,P3,50,1440,0,0
+INC-40493,2025-04-11 13:05,Pharmacy,Phone / paging,P2,80,240,0,0
+INC-40494,2025-06-25 19:02,Pharmacy,Network / VDI,P3,77,1440,0,0
+INC-40495,2025-06-04 21:05,Pulmonology,Printer / label printer,P2,52,240,0,0
+INC-40496,2025-05-20 18:27,Revenue Cycle,EHR access / login,P3,39,1440,0,0
+INC-40497,2025-04-02 09:49,Registration,Software request,P3,1699,1440,1,0
+INC-40498,2025-04-10 12:19,Family Medicine,Software request,P3,446,1440,0,0
+INC-40499,2025-06-09 07:37,Family Medicine,Network / VDI,P3,95,1440,0,0
+INC-40500,2025-06-20 23:30,Radiology,Password reset,P3,17,1440,0,0
+INC-40501,2025-06-22 07:47,Cardiology,Phone / paging,P4,70,4320,0,0
+INC-40502,2025-05-22 13:16,Registration,Software request,P2,496,240,1,0
+INC-40503,2025-05-30 21:40,Registration,Password reset,P3,17,1440,0,0
+INC-40504,2025-04-24 04:53,Family Medicine,EHR access / login,P2,22,240,0,0
+INC-40505,2025-05-31 20:30,Pharmacy,Clinical workstation,P4,21,4320,0,0
+INC-40506,2025-05-08 15:28,Radiology,Clinical workstation,P1,5,60,0,0
+INC-40507,2025-04-11 22:22,Revenue Cycle,EHR access / login,P3,67,1440,0,0
+INC-40508,2025-05-29 20:23,Family Medicine,Clinical workstation,P4,58,4320,0,0
+INC-40509,2025-05-29 22:21,Pulmonology,EHR access / login,P3,14,1440,0,0
+INC-40510,2025-06-27 17:29,Emergency,EHR access / login,P3,20,1440,0,0
+INC-40511,2025-05-10 23:06,Revenue Cycle,Clinical workstation,P3,12,1440,0,0
+INC-40512,2025-04-14 17:42,Registration,EHR access / login,P4,8,4320,0,0
+INC-40513,2025-06-20 02:43,Emergency,EHR access / login,P1,19,60,0,0
+INC-40514,2025-06-13 09:57,Emergency,Clinical workstation,P4,32,4320,0,0
+INC-40515,2025-05-12 06:42,Family Medicine,EHR access / login,P2,32,240,0,0
+INC-40516,2025-05-08 14:09,Family Medicine,Network / VDI,P4,94,4320,0,0
+INC-40517,2025-04-01 19:13,Emergency,Network / VDI,P2,62,240,0,0
+INC-40518,2025-06-21 02:14,Pharmacy,Clinical workstation,P1,46,60,0,0
+INC-40519,2025-04-15 21:29,Revenue Cycle,Clinical workstation,P3,13,1440,0,0
+INC-40520,2025-04-25 07:17,Registration,EHR access / login,P3,40,1440,0,0
+INC-40521,2025-04-10 07:47,Family Medicine,EHR access / login,P4,14,4320,0,0
+INC-40522,2025-04-24 04:52,Pharmacy,Medical device connectivity,P3,3135,1440,1,0
+INC-40523,2025-06-27 13:24,Registration,Clinical workstation,P3,5,1440,0,0
+INC-40524,2025-06-27 16:53,Registration,Medical device connectivity,P3,51,1440,0,0
+INC-40525,2025-06-11 08:35,Registration,Printer / label printer,P2,25,240,0,0
+INC-40526,2025-04-25 16:18,Emergency,Software request,P3,112,1440,0,0
+INC-40527,2025-04-18 13:32,Pharmacy,Clinical workstation,P3,24,1440,0,0
+INC-40528,2025-04-01 09:13,Emergency,Clinical workstation,P1,39,60,0,0
+INC-40529,2025-05-17 10:42,Pulmonology,Password reset,P3,10,1440,0,0
+INC-40530,2025-05-14 10:51,Pharmacy,EHR access / login,P3,20,1440,0,0
+INC-40531,2025-06-06 03:38,Family Medicine,Printer / label printer,P3,38,1440,0,0
+INC-40532,2025-04-12 17:32,Family Medicine,Password reset,P4,5,4320,0,0
+INC-40533,2025-05-20 22:31,Revenue Cycle,Clinical workstation,P4,40,4320,0,0
+INC-40534,2025-04-04 13:07,Family Medicine,EHR access / login,P2,5,240,0,0
+INC-40535,2025-05-21 03:43,Cardiology,Network / VDI,P3,5,1440,0,0
+INC-40536,2025-04-10 11:21,Emergency,Password reset,P3,15,1440,0,0
+INC-40537,2025-05-02 23:42,Revenue Cycle,Medical device connectivity,P2,187,240,0,0
+INC-40538,2025-05-05 02:16,Pharmacy,Clinical workstation,P3,71,1440,0,0
+INC-40539,2025-06-01 22:22,Radiology,Printer / label printer,P4,19,4320,0,0
+INC-40540,2025-04-02 06:30,Radiology,Password reset,P3,10,1440,0,0
+INC-40541,2025-05-17 15:55,Family Medicine,EHR access / login,P3,31,1440,0,0
+INC-40542,2025-06-27 13:46,Registration,Clinical workstation,P2,62,240,0,0
+INC-40543,2025-04-26 17:32,Radiology,Password reset,P3,5,1440,0,0
+INC-40544,2025-04-08 15:18,Cardiology,Password reset,P4,21,4320,0,0
+INC-40545,2025-06-01 23:55,Pharmacy,Clinical workstation,P2,72,240,0,0
+INC-40546,2025-05-30 10:19,Registration,EHR access / login,P2,20,240,0,0
+INC-40547,2025-06-06 14:27,Radiology,Clinical workstation,P4,101,4320,0,0
+INC-40548,2025-06-20 03:00,Cardiology,EHR access / login,P2,27,240,0,0
+INC-40549,2025-04-17 23:06,Emergency,EHR access / login,P3,21,1440,0,0
+INC-40550,2025-04-11 05:24,Emergency,EHR access / login,P4,22,4320,0,0
+INC-40551,2025-06-24 01:45,Emergency,Clinical workstation,P3,49,1440,0,0
+INC-40552,2025-04-29 05:21,Pharmacy,EHR access / login,P3,15,1440,0,0
+INC-40553,2025-06-24 08:34,Family Medicine,Password reset,P2,16,240,0,0
+INC-40554,2025-06-12 15:30,Emergency,Password reset,P4,18,4320,0,0
+INC-40555,2025-05-18 03:55,Pulmonology,EHR access / login,P4,53,4320,0,0
+INC-40556,2025-05-25 10:44,Registration,Printer / label printer,P4,25,4320,0,0
+INC-40557,2025-06-03 16:27,Cardiology,Clinical workstation,P3,62,1440,0,0
+INC-40558,2025-06-15 12:15,Pharmacy,EHR access / login,P2,20,240,0,0
+INC-40559,2025-05-04 20:57,Pulmonology,Password reset,P3,16,1440,0,0
+INC-40560,2025-05-27 02:42,Pharmacy,Password reset,P3,14,1440,0,0
+INC-40561,2025-05-08 15:55,Registration,Password reset,P3,12,1440,0,0
+INC-40562,2025-06-13 02:03,Family Medicine,Clinical workstation,P4,31,4320,0,0
+INC-40563,2025-04-24 03:50,Family Medicine,Clinical workstation,P3,18,1440,0,0
+INC-40564,2025-04-11 22:40,Family Medicine,Clinical workstation,P3,68,1440,0,0
+INC-40565,2025-05-19 21:54,Pulmonology,Printer / label printer,P3,38,1440,0,1
+INC-40566,2025-06-26 01:50,Pulmonology,EHR access / login,P3,50,1440,0,0
+INC-40567,2025-04-29 02:20,Revenue Cycle,Software request,P4,235,4320,0,0
+INC-40568,2025-04-08 19:46,Emergency,EHR access / login,P3,21,1440,0,0
+INC-40569,2025-04-30 07:00,Revenue Cycle,Printer / label printer,P3,64,1440,0,0
+INC-40570,2025-06-09 04:29,Cardiology,EHR access / login,P3,28,1440,0,0
+INC-40571,2025-05-22 00:14,Family Medicine,Network / VDI,P2,45,240,0,0
+INC-40572,2025-05-23 21:33,Registration,EHR access / login,P4,10,4320,0,0
+INC-40573,2025-05-30 01:40,Pharmacy,Software request,P4,5319,4320,1,0
+INC-40574,2025-05-26 15:14,Radiology,Network / VDI,P4,80,4320,0,0
+INC-40575,2025-04-15 21:28,Cardiology,EHR access / login,P2,50,240,0,0
+INC-40576,2025-04-26 17:31,Revenue Cycle,Printer / label printer,P3,30,1440,0,1
+INC-40577,2025-05-16 02:35,Pulmonology,Clinical workstation,P3,33,1440,0,0
+INC-40578,2025-05-25 01:45,Family Medicine,EHR access / login,P4,23,4320,0,0
+INC-40579,2025-05-13 09:04,Radiology,Printer / label printer,P3,48,1440,0,1
+INC-40580,2025-05-19 19:08,Radiology,EHR access / login,P2,26,240,0,1
+INC-40581,2025-05-05 20:44,Radiology,Phone / paging,P4,31,4320,0,0
+INC-40582,2025-06-25 14:22,Pulmonology,Network / VDI,P4,38,4320,0,0
+INC-40583,2025-06-23 05:15,Radiology,Clinical workstation,P3,92,1440,0,0
+INC-40584,2025-04-27 04:57,Revenue Cycle,Software request,P2,54,240,0,0
+INC-40585,2025-05-04 23:41,Revenue Cycle,Clinical workstation,P3,53,1440,0,0
+INC-40586,2025-05-19 03:38,Pharmacy,Password reset,P2,5,240,0,0
+INC-40587,2025-06-21 18:05,Emergency,Software request,P3,5,1440,0,0
+INC-40588,2025-06-11 18:38,Family Medicine,EHR access / login,P2,41,240,0,0
+INC-40589,2025-05-01 21:58,Emergency,Password reset,P3,13,1440,0,0
+INC-40590,2025-06-14 17:13,Cardiology,Network / VDI,P2,93,240,0,0
+INC-40591,2025-04-09 12:54,Radiology,Clinical workstation,P3,43,1440,0,0
+INC-40592,2025-06-28 11:14,Registration,EHR access / login,P2,12,240,0,0
+INC-40593,2025-05-02 12:46,Family Medicine,EHR access / login,P3,59,1440,0,0
+INC-40594,2025-04-21 15:18,Cardiology,Clinical workstation,P4,28,4320,0,0
+INC-40595,2025-05-24 17:49,Emergency,Software request,P2,199,240,0,0
+INC-40596,2025-05-09 09:51,Pharmacy,Clinical workstation,P3,28,1440,0,0
+INC-40597,2025-04-07 18:44,Revenue Cycle,Printer / label printer,P4,19,4320,0,0
+INC-40598,2025-04-29 06:21,Pharmacy,Printer / label printer,P4,52,4320,0,0
+INC-40599,2025-05-20 07:21,Emergency,Clinical workstation,P4,43,4320,0,0
+INC-40600,2025-04-25 20:45,Emergency,Printer / label printer,P3,44,1440,0,1
+INC-40601,2025-04-22 22:06,Emergency,Network / VDI,P2,125,240,0,0
+INC-40602,2025-05-20 01:51,Family Medicine,EHR access / login,P1,28,60,0,1
+INC-40603,2025-05-21 22:37,Pharmacy,EHR access / login,P4,21,4320,0,0
+INC-40604,2025-06-16 08:35,Family Medicine,Printer / label printer,P4,31,4320,0,0
+INC-40605,2025-05-23 23:55,Emergency,Printer / label printer,P3,54,1440,0,0
+INC-40606,2025-05-22 03:29,Emergency,Network / VDI,P3,28,1440,0,0
+INC-40607,2025-05-24 03:59,Family Medicine,EHR access / login,P1,34,60,0,0
+INC-40608,2025-05-28 23:35,Registration,Network / VDI,P2,124,240,0,0
+INC-40609,2025-06-21 16:20,Registration,Clinical workstation,P3,39,1440,0,0
+INC-40610,2025-06-24 23:31,Emergency,Clinical workstation,P3,5,1440,0,0
+INC-40611,2025-05-11 12:48,Cardiology,Password reset,P2,5,240,0,0
+INC-40612,2025-06-13 17:09,Radiology,Clinical workstation,P3,48,1440,0,0
+INC-40613,2025-04-17 20:44,Radiology,Printer / label printer,P3,27,1440,0,0
+INC-40614,2025-04-03 00:31,Pulmonology,EHR access / login,P3,38,1440,0,0
+INC-40615,2025-05-15 04:24,Registration,EHR access / login,P4,14,4320,0,0
+INC-40616,2025-04-20 08:29,Emergency,EHR access / login,P2,16,240,0,0
+INC-40617,2025-04-08 16:04,Cardiology,EHR access / login,P2,34,240,0,0
+INC-40618,2025-05-24 03:13,Radiology,EHR access / login,P4,17,4320,0,0
+INC-40619,2025-06-09 18:08,Revenue Cycle,Clinical workstation,P4,40,4320,0,0
+INC-40620,2025-06-26 20:34,Pulmonology,EHR access / login,P3,43,1440,0,0
+INC-40621,2025-04-04 16:32,Revenue Cycle,Network / VDI,P2,151,240,0,0
+INC-40622,2025-06-16 08:46,Emergency,EHR access / login,P3,11,1440,0,0
+INC-40623,2025-05-15 16:53,Radiology,EHR access / login,P3,44,1440,0,0
+INC-40624,2025-05-10 21:30,Revenue Cycle,EHR access / login,P3,30,1440,0,0
+INC-40625,2025-05-05 18:27,Radiology,Phone / paging,P4,49,4320,0,0
+INC-40626,2025-06-15 02:44,Cardiology,EHR access / login,P3,5,1440,0,0
+INC-40627,2025-06-16 07:56,Pharmacy,Phone / paging,P4,63,4320,0,0
+INC-40628,2025-06-13 13:36,Emergency,Printer / label printer,P2,56,240,0,0
+INC-40629,2025-04-29 04:52,Revenue Cycle,Password reset,P2,6,240,0,0
+INC-40630,2025-06-17 14:42,Emergency,Clinical workstation,P4,28,4320,0,0
+INC-40631,2025-06-27 15:25,Radiology,Password reset,P4,23,4320,0,0
+INC-40632,2025-05-29 09:44,Family Medicine,EHR access / login,P3,11,1440,0,0
+INC-40633,2025-04-01 17:16,Radiology,Password reset,P3,8,1440,0,0
+INC-40634,2025-06-10 14:05,Pulmonology,Printer / label printer,P4,23,4320,0,0
+INC-40635,2025-04-02 07:32,Revenue Cycle,Medical device connectivity,P3,2486,1440,1,0
+INC-40636,2025-04-29 02:22,Pharmacy,Password reset,P2,6,240,0,0
+INC-40637,2025-05-03 18:39,Pulmonology,EHR access / login,P3,29,1440,0,0
+INC-40638,2025-05-18 22:32,Registration,Clinical workstation,P3,21,1440,0,0
+INC-40639,2025-06-18 02:14,Revenue Cycle,Password reset,P3,6,1440,0,0
+INC-40640,2025-06-14 12:21,Family Medicine,Clinical workstation,P3,41,1440,0,0
